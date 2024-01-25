@@ -1,19 +1,10 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "PitchAntenna",
-      "Earth",
-      "Volume Antenna B",
-      "Volume Antenna A",
-      "VAC",
-      "Pitch Tuning",
-      "Volume Tuning",
-      "Waveform"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -73,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "00010fc_ffffffff",
+    "visible_layers": "0001030_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "theremin.kicad_prl",
+    "filename": "theremin_tht.kicad_prl",
     "version": 3
   },
   "project": {

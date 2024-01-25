@@ -514,32 +514,23 @@
   (junction (at 72.39 74.93) (diameter 0) (color 0 0 0 0)
     (uuid 37fb8575-42c2-4e5b-9d4f-d5c3be2822c3)
   )
-  (junction (at 147.32 85.09) (diameter 0) (color 0 0 0 0)
-    (uuid 42e27f61-5d4d-4989-8ec7-af0b3397c7f0)
-  )
   (junction (at 38.1 87.63) (diameter 0) (color 0 0 0 0)
     (uuid 51c1e119-557c-4b98-91b8-2c63bb671ebd)
   )
   (junction (at 161.29 68.58) (diameter 0) (color 0 0 0 0)
     (uuid 560be73c-71e9-426f-b17f-90ce0b4fcf33)
   )
-  (junction (at 147.32 80.01) (diameter 0) (color 0 0 0 0)
-    (uuid 5c06ffe2-9fc4-4205-9b44-d11f97e7f7cf)
+  (junction (at 147.32 82.55) (diameter 0) (color 0 0 0 0)
+    (uuid 5c615811-850b-4a5e-bb77-a3d05390aa9a)
   )
   (junction (at 133.35 129.54) (diameter 0) (color 0 0 0 0)
     (uuid 5c8bab0e-d53d-4702-8318-55dac7b6624a)
-  )
-  (junction (at 179.07 82.55) (diameter 0) (color 0 0 0 0)
-    (uuid 68cf0045-4baf-4153-b741-a8d740627589)
   )
   (junction (at 224.79 113.03) (diameter 0) (color 0 0 0 0)
     (uuid 92e00ec7-fae3-422e-bdb9-456f6c65a3a3)
   )
   (junction (at 138.43 77.47) (diameter 0) (color 0 0 0 0)
     (uuid 9e90bc8c-54de-4f6c-b134-6ceadf9e7858)
-  )
-  (junction (at 179.07 68.58) (diameter 0) (color 0 0 0 0)
-    (uuid a11606e9-9a62-4c71-a5cf-18fc01418e03)
   )
   (junction (at 68.58 74.93) (diameter 0) (color 0 0 0 0)
     (uuid a2d1b4ae-916e-4e78-9ffc-da44f987a413)
@@ -651,6 +642,10 @@
     (stroke (width 0) (type default))
     (uuid 297c02b9-a8f6-4113-9003-8ab383a4abf4)
   )
+  (wire (pts (xy 147.32 77.47) (xy 147.32 82.55))
+    (stroke (width 0) (type default))
+    (uuid 2a7d1517-bb70-44b8-96e8-99a34f40c900)
+  )
   (wire (pts (xy 217.17 73.66) (xy 210.82 73.66))
     (stroke (width 0) (type default))
     (uuid 2a916aea-854c-4205-9f1b-076a4a509dbc)
@@ -671,7 +666,7 @@
     (stroke (width 0) (type default))
     (uuid 2f3d3fff-ed3d-4b8d-b0b8-73daf3a5d856)
   )
-  (wire (pts (xy 210.82 73.66) (xy 210.82 80.01))
+  (wire (pts (xy 210.82 73.66) (xy 210.82 77.47))
     (stroke (width 0) (type default))
     (uuid 30b2fd99-d23a-4384-a7de-50e8d8501493)
   )
@@ -695,21 +690,17 @@
     (stroke (width 0) (type default))
     (uuid 3663d5f0-a927-4fbd-8d14-ef5cf82efc22)
   )
-  (wire (pts (xy 152.4 85.09) (xy 147.32 85.09))
+  (wire (pts (xy 147.32 82.55) (xy 153.67 82.55))
     (stroke (width 0) (type default))
     (uuid 370c75d3-8a2e-4c48-a6e1-15347072faba)
   )
-  (wire (pts (xy 147.32 85.09) (xy 147.32 88.9))
+  (wire (pts (xy 147.32 82.55) (xy 147.32 88.9))
     (stroke (width 0) (type default))
-    (uuid 3d6a7fa1-d491-46a6-8939-1df33be7138f)
+    (uuid 3c20e281-754f-4ea8-b615-0b7bc2f78acb)
   )
   (wire (pts (xy 104.14 93.98) (xy 104.14 95.25))
     (stroke (width 0) (type default))
     (uuid 3d878de5-7ed6-4a09-89ac-abc896e08e23)
-  )
-  (wire (pts (xy 152.4 83.82) (xy 152.4 85.09))
-    (stroke (width 0) (type default))
-    (uuid 406baeac-bf20-4315-80c3-6ce5de45952b)
   )
   (wire (pts (xy 237.49 97.79) (xy 237.49 100.33))
     (stroke (width 0) (type default))
@@ -739,15 +730,11 @@
     (stroke (width 0) (type default))
     (uuid 60e6c769-925c-4bf5-94c4-2dd2c1f57f72)
   )
-  (wire (pts (xy 152.4 83.82) (xy 153.67 83.82))
-    (stroke (width 0) (type default))
-    (uuid 62685628-8bb8-4605-9aab-f98aa3b4f203)
-  )
   (wire (pts (xy 231.14 97.79) (xy 237.49 97.79))
     (stroke (width 0) (type default))
     (uuid 6843b7ca-b423-40dd-9cb8-7b7be3214c81)
   )
-  (wire (pts (xy 147.32 80.01) (xy 210.82 80.01))
+  (wire (pts (xy 147.32 77.47) (xy 210.82 77.47))
     (stroke (width 0) (type default))
     (uuid 684c8bb7-a894-4b5a-9ee5-968418b4a4ad)
   )
@@ -823,10 +810,6 @@
     (stroke (width 0) (type default))
     (uuid 8f7f464f-347f-4085-92ce-030f6a157c27)
   )
-  (wire (pts (xy 161.29 82.55) (xy 161.29 83.82))
-    (stroke (width 0) (type default))
-    (uuid 9157a727-c5f3-40bc-9d05-d9bd89fa3c87)
-  )
   (wire (pts (xy 72.39 60.96) (xy 72.39 74.93))
     (stroke (width 0) (type default))
     (uuid 92a3e417-29af-430e-9270-4031931ac2ba)
@@ -862,10 +845,6 @@
   (wire (pts (xy 212.09 90.17) (xy 200.66 90.17))
     (stroke (width 0) (type default))
     (uuid ab2de143-ef9a-4457-af8b-a1aec2c75bce)
-  )
-  (wire (pts (xy 179.07 68.58) (xy 179.07 82.55))
-    (stroke (width 0) (type default))
-    (uuid ace92d6f-e6b4-4b29-beeb-471b6509fe92)
   )
   (wire (pts (xy 212.09 111.76) (xy 224.79 111.76))
     (stroke (width 0) (type default))
@@ -915,21 +894,9 @@
     (stroke (width 0) (type default))
     (uuid c7185d82-fe32-4c3b-8ea0-c1ec07438772)
   )
-  (wire (pts (xy 167.64 68.58) (xy 179.07 68.58))
-    (stroke (width 0) (type default))
-    (uuid c83d2d11-abe9-440e-b3aa-fa0973070269)
-  )
   (wire (pts (xy 68.58 74.93) (xy 68.58 77.47))
     (stroke (width 0) (type default))
     (uuid c8cb96c3-bd86-4529-9f83-38f552f70a61)
-  )
-  (wire (pts (xy 147.32 80.01) (xy 147.32 85.09))
-    (stroke (width 0) (type default))
-    (uuid cf34afa1-8d8a-40fd-8bad-286d2d0dd332)
-  )
-  (wire (pts (xy 147.32 77.47) (xy 147.32 80.01))
-    (stroke (width 0) (type default))
-    (uuid d44e1d5d-a0dc-4fcb-92b5-da3c00d9ed6a)
   )
   (wire (pts (xy 217.17 91.44) (xy 217.17 99.06))
     (stroke (width 0) (type default))
@@ -959,7 +926,7 @@
     (stroke (width 0) (type default))
     (uuid e215df17-c3bb-4c7c-80d7-689fa2ccf00d)
   )
-  (wire (pts (xy 179.07 68.58) (xy 190.5 68.58))
+  (wire (pts (xy 167.64 68.58) (xy 190.5 68.58))
     (stroke (width 0) (type default))
     (uuid e92b35a3-0901-4705-b215-275b7993c53a)
   )
@@ -1034,7 +1001,7 @@
   (symbol (lib_id "power:Earth") (at 200.66 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0391bcec-91f4-4736-b192-5463876f78f2)
-    (property "Reference" "#PWR011" (at 200.66 116.84 0)
+    (property "Reference" "#PWR09" (at 200.66 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 200.66 114.3 0)
@@ -1049,9 +1016,6 @@
     (pin "1" (uuid dc79d619-c55a-49e0-9acc-1ebfc4b85c73))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR011") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR09") (unit 1)
         )
@@ -1062,7 +1026,7 @@
   (symbol (lib_id "power:+12V") (at 72.39 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 074e48b0-a42c-485b-8adb-63da3af5e2fa)
-    (property "Reference" "#PWR01" (at 72.39 64.77 0)
+    (property "Reference" "#PWR02" (at 72.39 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 72.39 55.88 0)
@@ -1077,9 +1041,6 @@
     (pin "1" (uuid 95b7c63a-3a19-48fe-9185-1b28aa2c0850))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR02") (unit 1)
         )
@@ -1107,9 +1068,6 @@
     (pin "3" (uuid 7893a636-dfb1-43da-ac82-17710244dfa1))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "Q2") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "Q2") (unit 1)
         )
@@ -1136,9 +1094,6 @@
     (pin "2" (uuid b12be83c-60e1-4f00-992a-06ad7349440e))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R8") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R8") (unit 1)
         )
@@ -1165,9 +1120,6 @@
     (pin "2" (uuid 70ecea75-2184-4da4-8c55-33d6b14814b9))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R9") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R9") (unit 1)
         )
@@ -1178,7 +1130,7 @@
   (symbol (lib_id "power:Earth") (at 49.53 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1549672d-32e6-452a-9380-7bcb46f550cb)
-    (property "Reference" "#PWR06" (at 49.53 121.92 0)
+    (property "Reference" "#PWR01" (at 49.53 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 49.53 119.38 0)
@@ -1193,9 +1145,6 @@
     (pin "1" (uuid 1265e3cb-2abf-4db6-b616-6f6bfea8cf37))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR06") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR01") (unit 1)
         )
@@ -1222,9 +1171,6 @@
     (pin "2" (uuid f77c22f1-f013-4dfa-b908-e8e1070ab93d))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R4") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R4") (unit 1)
         )
@@ -1235,7 +1181,7 @@
   (symbol (lib_id "power:Earth") (at 179.07 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 31baf809-a357-487a-b99f-4119e75c86ab)
-    (property "Reference" "#PWR05" (at 179.07 115.57 0)
+    (property "Reference" "#PWR08" (at 179.07 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 179.07 113.03 0)
@@ -1250,9 +1196,6 @@
     (pin "1" (uuid 85a83346-ad92-4157-a607-3849660929f8))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR05") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR08") (unit 1)
         )
@@ -1280,9 +1223,6 @@
     (pin "3" (uuid 01fc204a-6422-4cd0-848f-2dd295b6fe7f))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "Q1") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "Q1") (unit 1)
         )
@@ -1309,9 +1249,6 @@
     (pin "2" (uuid 17bb4527-8569-4c16-8948-475504ddf900))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R7") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R7") (unit 1)
         )
@@ -1339,9 +1276,6 @@
     (pin "3" (uuid bf8b5a50-f6cb-4cb4-a685-3546f3978e53))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "Q5") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "Q5") (unit 1)
         )
@@ -1368,9 +1302,6 @@
     (pin "2" (uuid 3843ece2-13e1-4523-848b-aa8c470a2008))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R5") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R5") (unit 1)
         )
@@ -1381,7 +1312,7 @@
   (symbol (lib_id "power:-12V") (at 224.79 113.03 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 478bb807-7101-4f22-8843-6c853ed521db)
-    (property "Reference" "#PWR010" (at 224.79 115.57 0)
+    (property "Reference" "#PWR011" (at 224.79 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (at 224.79 118.11 0)
@@ -1396,9 +1327,6 @@
     (pin "1" (uuid ed315c56-6afd-4aef-99ae-ad13c3c829f1))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR010") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR011") (unit 1)
         )
@@ -1425,9 +1353,6 @@
     (pin "2" (uuid 773d639a-80c0-4360-a003-f1dd52bb830b))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "L6") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "L6") (unit 1)
         )
@@ -1454,9 +1379,6 @@
     (pin "2" (uuid bb23e979-015f-46e1-881e-5bbcfea29615))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R3") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R3") (unit 1)
         )
@@ -1483,9 +1405,6 @@
     (pin "2" (uuid e7184c21-8162-481e-8abf-03f2d6343012))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C11") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C11") (unit 1)
         )
@@ -1512,9 +1431,6 @@
     (pin "2" (uuid 68b26d4a-3989-4d8d-b189-13df3c1ca008))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R12") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R12") (unit 1)
         )
@@ -1542,9 +1458,6 @@
     (pin "3" (uuid 29b6ee81-82f5-4a32-b66d-ddaade2aeaf3))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "Q4") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "Q4") (unit 1)
         )
@@ -1571,9 +1484,6 @@
     (pin "2" (uuid d7ccf14b-b916-43b8-a0d9-ce04e94daf2a))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C8") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C8") (unit 1)
         )
@@ -1581,28 +1491,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 157.48 83.82 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Device:C") (at 157.48 82.55 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cfddf80-34a4-4575-ba6a-cc31adcaeaf2)
-    (property "Reference" "C7" (at 157.48 76.2 90)
+    (property "Reference" "C7" (at 157.48 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "0.01uF" (at 157.48 78.74 90)
+    (property "Value" "0.01uF" (at 157.48 88.9 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 161.29 82.8548 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 161.29 81.5848 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 157.48 83.82 0)
+    (property "Datasheet" "~" (at 157.48 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3b6d7075-326f-4a9e-bc0a-99221d77112b))
     (pin "2" (uuid a5a79a4e-9f92-40b6-888b-dab3e0ce651c))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C7") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C7") (unit 1)
         )
@@ -1629,9 +1536,6 @@
     (pin "2" (uuid d22d6851-bc28-481c-a8f8-12d535c83a53))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R6") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R6") (unit 1)
         )
@@ -1658,9 +1562,6 @@
     (pin "2" (uuid 2a8efd7b-d29c-4d2f-8266-cc64607fb851))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R11") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R11") (unit 1)
         )
@@ -1688,9 +1589,6 @@
     (pin "3" (uuid 4a9b5b9a-3b2b-4533-8add-a4d141d066ad))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "Q3") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "Q3") (unit 1)
         )
@@ -1717,9 +1615,6 @@
     (pin "2" (uuid 55ade16e-e25e-439b-9384-4a8dd0f5150f))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C3") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C3") (unit 1)
         )
@@ -1746,9 +1641,6 @@
     (pin "2" (uuid 53bb8dda-6712-457d-95e1-cf4952877ffe))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R1") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R1") (unit 1)
         )
@@ -1759,7 +1651,7 @@
   (symbol (lib_id "power:Earth") (at 140.97 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af10add7-429b-494e-be0d-394ee9ee1bc0)
-    (property "Reference" "#PWR09" (at 140.97 114.3 0)
+    (property "Reference" "#PWR05" (at 140.97 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 140.97 111.76 0)
@@ -1774,9 +1666,6 @@
     (pin "1" (uuid ca043957-bab1-4754-a821-e967b09e2220))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR09") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR05") (unit 1)
         )
@@ -1803,9 +1692,6 @@
     (pin "2" (uuid 499df413-42db-4ecd-a5c8-24c07e4207ea))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R13") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R13") (unit 1)
         )
@@ -1816,7 +1702,7 @@
   (symbol (lib_id "Device:C") (at 38.1 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b73b30e6-13e6-4f05-aad3-d2cfb898796c)
-    (property "Reference" "C2" (at 41.91 99.06 0)
+    (property "Reference" "C1" (at 41.91 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22pF" (at 41.91 101.6 0)
@@ -1832,9 +1718,6 @@
     (pin "2" (uuid 7b371138-1cdc-40f9-9254-9289ee1807b6))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C2") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C1") (unit 1)
         )
@@ -1845,7 +1728,7 @@
   (symbol (lib_id "power:Earth") (at 104.14 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bbaa2f07-e023-4243-942a-359b95964ab4)
-    (property "Reference" "#PWR07" (at 104.14 120.65 0)
+    (property "Reference" "#PWR04" (at 104.14 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 104.14 118.11 0)
@@ -1860,9 +1743,6 @@
     (pin "1" (uuid 9aff4d49-ab9b-48ad-8f76-5dd510555fe3))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR07") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR04") (unit 1)
         )
@@ -1889,9 +1769,6 @@
     (pin "2" (uuid 168dcdec-bb7c-411e-96aa-5796721d49ca))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C4") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C4") (unit 1)
         )
@@ -1918,9 +1795,6 @@
     (pin "2" (uuid 05896bb6-2d4e-4e44-9fd0-19dd782f1178))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C5") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C5") (unit 1)
         )
@@ -1947,9 +1821,6 @@
     (pin "2" (uuid 646626aa-8d6d-4d44-adc5-e16e81ee0234))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C6") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C6") (unit 1)
         )
@@ -1960,7 +1831,7 @@
   (symbol (lib_id "Device:R_US") (at 212.09 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2056af2-9461-4141-83ff-758a3077a3b9)
-    (property "Reference" "R14" (at 214.63 101.6 0)
+    (property "Reference" "R39" (at 214.63 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10K" (at 214.63 104.14 0)
@@ -1976,9 +1847,6 @@
     (pin "2" (uuid a66d5b5f-0ec9-4fcb-ae76-e0759a5eddbf))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R14") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R39") (unit 1)
         )
@@ -2004,9 +1872,6 @@
     (pin "1" (uuid 783289fa-7381-43ca-b9d4-4e99a7148afc))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR012") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR012") (unit 1)
         )
@@ -2033,9 +1898,6 @@
     (pin "2" (uuid fcffe4b9-4a8d-4167-af7c-f6482a782707))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C9") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C9") (unit 1)
         )
@@ -2046,7 +1908,7 @@
   (symbol (lib_id "Device:C") (at 55.88 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc12e0ea-7a91-40a6-89d6-b5147b0c20c1)
-    (property "Reference" "C1" (at 59.69 80.01 0)
+    (property "Reference" "C2" (at 59.69 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3900pF" (at 59.69 82.55 0)
@@ -2062,9 +1924,6 @@
     (pin "2" (uuid b64285fa-6c4f-4ae7-8201-1b1fa22c9fa7))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C1") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C2") (unit 1)
         )
@@ -2075,7 +1934,7 @@
   (symbol (lib_id "power:+12V") (at 161.29 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d885f763-0c27-4992-93f3-1bdc5114e1e1)
-    (property "Reference" "#PWR02" (at 161.29 67.31 0)
+    (property "Reference" "#PWR07" (at 161.29 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 161.29 58.42 0)
@@ -2090,9 +1949,6 @@
     (pin "1" (uuid a35d3cbb-3851-41a7-ac1f-fabcd7521d5d))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR07") (unit 1)
         )
@@ -2119,9 +1975,6 @@
     (pin "2" (uuid 57295157-5ac0-4d2b-b8c4-c02427589a18))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R2") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R2") (unit 1)
         )
@@ -2132,7 +1985,7 @@
   (symbol (lib_id "power:-12V") (at 74.93 118.11 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ee885d6f-3c59-47f7-87b8-bfd6c8113879)
-    (property "Reference" "#PWR04" (at 74.93 120.65 0)
+    (property "Reference" "#PWR03" (at 74.93 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (at 74.93 123.19 0)
@@ -2147,9 +2000,6 @@
     (pin "1" (uuid 4e3c2b13-bf07-435f-9898-09809028b0a3))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR03") (unit 1)
         )
@@ -2160,7 +2010,7 @@
   (symbol (lib_id "power:-12V") (at 158.75 114.3 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f35de6be-050e-4a84-a619-1d45b9f55e22)
-    (property "Reference" "#PWR08" (at 158.75 116.84 0)
+    (property "Reference" "#PWR06" (at 158.75 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (at 158.75 119.38 0)
@@ -2175,9 +2025,6 @@
     (pin "1" (uuid 3f5795de-be0f-4793-8d22-cf1d0f44d34c))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "#PWR08") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "#PWR06") (unit 1)
         )
@@ -2204,9 +2051,6 @@
     (pin "2" (uuid 8228c565-64a2-4416-95da-68b6a9955d0f))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "C10") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "C10") (unit 1)
         )
@@ -2233,9 +2077,6 @@
     (pin "2" (uuid 58429b31-c0ba-43b2-8124-b1938a2fc34c))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "R10") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "R10") (unit 1)
         )
@@ -2262,9 +2103,6 @@
     (pin "2" (uuid ea3393cc-201d-494a-91c3-55d1b2275453))
     (instances
       (project "theremin"
-        (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f"
-          (reference "L5") (unit 1)
-        )
         (path "/473c3f96-5c4c-45fe-b473-df7e5d6ca19f/a7a4d331-ba82-4046-ade9-89b3aa3ea574"
           (reference "L5") (unit 1)
         )
