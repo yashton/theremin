@@ -152,7 +152,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 00ec58f4-1fa2-4085-b641-57d253eae383)
-    (at 95.885 37.7425 -90)
+    (at 95.885 36.195 -90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -412,7 +412,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 0bc844d5-5ec8-4442-bf4b-94b0326f39fd)
-    (at 81.915 30.385 90)
+    (at 78.065 27.94 90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -421,7 +421,7 @@
     (property "ki_keywords" "cap capacitor")
     (path "/a7a4d331-ba82-4046-ade9-89b3aa3ea574/cafd2d86-c84c-48b5-a00c-581c03d7ef58")
     (attr through_hole)
-    (fp_text reference "C9" (at 1.25 -2.05 90) (layer "F.SilkS")
+    (fp_text reference "C9" (at 3.135 -2.05 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b7daa83c-36e6-4c16-8cf2-eaf6f2bfe7b6)
     )
@@ -466,7 +466,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 0df87ee7-3403-4a18-bae6-5f459440fc63)
-    (at 124.1825 31.75 180)
+    (at 124.1825 30.2025 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -524,7 +524,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 113aebf0-8af8-42ec-b462-297a2d6d6a1a)
-    (at 120.015 45.72 -90)
+    (at 120.015 44.1725 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -582,7 +582,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (layer "F.Cu")
     (tstamp 130a70c9-2abf-4ec0-ba25-55053542c9ef)
-    (at 90.877388 29.75)
+    (at 90.837388 30.385)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -866,7 +866,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 1dae2794-9244-41a2-b4e9-bb38bfbf5380)
-    (at 97.155 42.8225 90)
+    (at 97.155 41.275 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -924,7 +924,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 1efbfb0d-1796-4e35-8fdb-b94d3800da88)
-    (at 111.125 46.0775 90)
+    (at 111.125 44.53 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -982,7 +982,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 234bb555-5ae4-4bb3-af46-43600e31d209)
-    (at 132.08 39.37 -90)
+    (at 132.08 37.8225 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -1132,7 +1132,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 23fe2a25-116c-4f17-87fe-7b51bb20751c)
-    (at 129.54 31.115)
+    (at 129.54 29.5675)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
     (property "Sheetfile" "vca.kicad_sch")
@@ -1256,7 +1256,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 262400d3-5b64-420c-8948-aff696d56faf)
-    (at 108.585 30.48 90)
+    (at 108.585 28.9325 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -1314,7 +1314,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 27b3e69f-3dd8-4afa-a451-2113f8195608)
-    (at 132.08 46.1175 -90)
+    (at 132.08 44.57 -90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "vca.kicad_sch")
@@ -1368,7 +1368,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 2b7ee009-7898-4338-951a-0d9fc9e0b733)
-    (at 114.935 52.4925 -90)
+    (at 114.935 50.945 -90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
     (property "Sheetfile" "vca.kicad_sch")
@@ -1488,7 +1488,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 2edfccee-ef70-45e4-9bde-cbf26717ca22)
-    (at 77.47 37.465)
+    (at 77.43 38.1)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -2069,7 +2069,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 387d7e42-d293-444c-907d-52d34dcff593)
-    (at 105.41 45.72 90)
+    (at 105.41 44.1725 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -2127,7 +2127,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu")
     (tstamp 3aac3eff-ef27-448c-8d0d-c5cec8fe44c1)
-    (at 86.995 29.39 180)
+    (at 87.59 32.385 180)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -2523,7 +2523,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 4d4deef6-08e0-43ff-896a-fae346606ee5)
-    (at 125.095 29.13 -90)
+    (at 125.095 27.5825 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -3264,7 +3264,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (layer "F.Cu")
     (tstamp 5a18673c-9157-4d7b-b60e-e79f4e580968)
-    (at 90.845 35.56)
+    (at 90.805 36.195)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -4051,7 +4051,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (layer "F.Cu")
     (tstamp 6c8fb789-98ef-483a-b6c3-0b6faebb9be9)
-    (at 128.27 41.347388 -90)
+    (at 128.27 39.799888 -90)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
     (property "Sheetfile" "vca.kicad_sch")
@@ -4622,7 +4622,7 @@
 
   (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (layer "F.Cu")
     (tstamp 721254b3-ab38-4912-a548-83486fad1bdc)
-    (at 70.485 39.41 -90)
+    (at 70.445 40.045 -90)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -4964,7 +4964,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 785c4d0d-0dc5-4537-b044-8aace78c6662)
-    (at 74.93 31.115 180)
+    (at 73.58 30.48 180)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -5080,7 +5080,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 7b1caff7-d63f-4eee-8856-5f4f08df1e96)
-    (at 101.6 46.2045 -90)
+    (at 101.6 44.657 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -5138,7 +5138,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 7b44badb-9ef2-4f39-b2d1-dd5cc516c0ae)
-    (at 74.295 40.005)
+    (at 74.255 40.64)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -5258,7 +5258,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 81160b1b-42d7-4f01-9277-950690746db1)
-    (at 103.505 38.4575 90)
+    (at 103.505 36.91 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -5890,7 +5890,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 83282bdb-25b3-4517-ab85-8b868114011e)
-    (at 105.41 30.48 -90)
+    (at 105.41 28.9325 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -5948,7 +5948,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp 850cf084-3e79-4331-8c3c-59e8ad9a7cee)
-    (at 79.375 26.71 -90)
+    (at 80.605 25.44 -90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -6120,7 +6120,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 87e67f1a-653f-43eb-b205-8c29c033fa58)
-    (at 107.95 46.0775 90)
+    (at 107.95 44.53 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -6178,7 +6178,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 88e49e98-0cbb-4c32-becd-63bb06baa23c)
-    (at 86.995 32.385 -90)
+    (at 89.495 36.83 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -6187,15 +6187,15 @@
     (property "ki_keywords" "R res resistor")
     (path "/a7a4d331-ba82-4046-ade9-89b3aa3ea574/b3a86be6-1c95-4d4d-abda-a363a35eab45")
     (attr through_hole)
-    (fp_text reference "R13" (at 2.54 -1.92 90) (layer "F.SilkS")
+    (fp_text reference "R13" (at 2.54 -1.92) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp baa927f7-2ca8-41a7-aa31-b772faaeea0d)
     )
-    (fp_text value "2.5K" (at 2.54 1.92 90) (layer "F.Fab")
+    (fp_text value "2.5K" (at 2.54 1.92) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bc7c5f7d-ff3e-4830-b58f-c3d6b3a75ed8)
     )
-    (fp_text user "${REFERENCE}" (at 2.54 0 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 2.54 0) (layer "F.Fab")
         (effects (font (size 0.72 0.72) (thickness 0.108)))
       (tstamp d64b2aba-3456-4e01-a681-ba7c04d9b57f)
     )
@@ -6223,9 +6223,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 1f35e4bb-0758-4c58-98a3-b277a80fdfad))
     (fp_line (start 5.08 0) (end 4.34 0)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 345899e5-6841-483d-b79c-ac7e62399dfb))
-    (pad "1" thru_hole circle (at 0 0 270) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole circle (at 0 0 180) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 7 "Earth") (pintype "passive") (tstamp 153f783d-7206-4283-b76c-4cc53d36e87c))
-    (pad "2" thru_hole oval (at 5.08 0 270) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole oval (at 5.08 0 180) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 10 "Net-(C10-Pad1)") (pintype "passive") (tstamp 1110cd7d-125e-469e-a160-b9206f42cb4b))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
@@ -6294,7 +6294,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu")
     (tstamp 8e08f8c1-bc8f-475f-ac06-c519b1a4260d)
-    (at 69.85 34.925 180)
+    (at 69.81 35.56 180)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -6522,7 +6522,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp 977d2621-d0e3-484e-840d-ea3ffe9e257b)
-    (at 89.535 40.545 -90)
+    (at 89.495 41.18 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -6580,7 +6580,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp a1d49f19-e422-4ab7-a323-0dcd9a9cc976)
-    (at 74.295 42.545)
+    (at 74.255 43.18)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -6782,7 +6782,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp a58c9fd3-5abb-45bd-a5a4-cd89704ae8db)
-    (at 135.255 45.9975 90)
+    (at 135.255 44.45 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -6898,7 +6898,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp ad28657b-13da-47c2-82bf-d681911cc616)
-    (at 123.825 45.72 -90)
+    (at 123.825 44.1725 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -6956,7 +6956,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp ae9ddd74-ade4-44a6-aaa4-e5e0157db6e7)
-    (at 82.55 29.845 180)
+    (at 82.51 30.48 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -7014,7 +7014,7 @@
 
   (footprint "Package_TO_SOT_THT:TO-92_Inline" (layer "F.Cu")
     (tstamp b078e33b-0b97-4a41-8f7b-4c79cfc7ee07)
-    (at 74.295 36.195 90)
+    (at 74.255 36.83 90)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -7070,7 +7070,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp b5897c14-def1-4617-ae2c-9ffa0d0e61a1)
-    (at 103.505 46.355 -90)
+    (at 103.505 44.8075 -90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -7128,7 +7128,7 @@
 
   (footprint "Package_DIP:DIP-16_W7.62mm_LongPads" (layer "F.Cu")
     (tstamp b7a0a8b7-2163-43de-8ee4-55eceb084f30)
-    (at 106.045 42.1875 90)
+    (at 106.045 40.64 90)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads")
     (property "Sheetfile" "vca.kicad_sch")
@@ -7220,7 +7220,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp c1e406c9-4b4f-457e-9e12-3c5df8625db1)
-    (at 86.995 42.545 180)
+    (at 86.955 43.18 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -7340,7 +7340,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp c6dbd0f3-0d48-4837-8fb4-4bd71eb036ef)
-    (at 82.55 34.925 180)
+    (at 82.51 35.56 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -7398,7 +7398,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp c851c530-2c6e-44bf-a583-c735a6f7cfe2)
-    (at 114.3 45.8 90)
+    (at 114.3 44.2525 90)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "vca.kicad_sch")
@@ -8346,7 +8346,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp dfeaf157-3c7f-4bd7-a60a-7da433324562)
-    (at 82.55 32.385 180)
+    (at 82.51 33.02 180)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -8522,7 +8522,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp ec99944f-1170-4780-a8b0-f44bef650507)
-    (at 99.06 39.6475)
+    (at 99.06 38.1)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -8997,7 +8997,7 @@
 
   (footprint "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1" (layer "F.Cu")
     (tstamp f8ea1d93-bb0a-4fb1-8192-a5ce29d04fe7)
-    (at 76.835 27.305 180)
+    (at 74.89 27.94 180)
     (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.3*2.2mm^2, Vishay, IM-1, http://www.vishay.com/docs/34030/im.pdf")
     (tags "Inductor Axial series Axial Horizontal pin pitch 7.62mm  length 5.3mm diameter 2.2mm Vishay IM-1")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -9059,7 +9059,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" (layer "F.Cu")
     (tstamp f95f94ad-a14a-4647-83b5-98f373dbf57d)
-    (at 81.915 40.005)
+    (at 81.875 40.64)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "pitch_osc.kicad_sch")
@@ -9117,7 +9117,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (layer "F.Cu")
     (tstamp fb0c0867-8857-4df4-8278-0d188e64edc7)
-    (at 117.475 46.035 -90)
+    (at 117.475 44.4875 -90)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor")
     (property "Sheetfile" "vca.kicad_sch")
@@ -9244,19 +9244,23 @@
   (segment (start 144.145 44.19) (end 144.145 41.91) (width 0.25) (layer "F.Cu") (net 3) (tstamp 9cf89ac0-fad2-48dc-9508-a0c0d6a227a3))
   (segment (start 144.145 44.19) (end 141.345 46.99) (width 0.25) (layer "F.Cu") (net 3) (tstamp a8d7043d-6a80-4a9f-936d-3219e7905c88))
   (segment (start 141.345 46.99) (end 141.097 46.99) (width 0.25) (layer "F.Cu") (net 3) (tstamp ea19e653-89a4-4d00-b8b8-6a9672be540e))
-  (segment (start 123.27 31.75) (end 121.5625 31.75) (width 0.25) (layer "F.Cu") (net 5) (tstamp 0ed5fc55-9902-4db3-a230-536367456e65))
-  (segment (start 116.6326 29.5675) (end 118.745 31.6799) (width 0.25) (layer "F.Cu") (net 5) (tstamp 190145f8-7a7d-4bb0-9f97-aa5d6658674b))
+  (segment (start 123.27 30.2025) (end 121.5625 30.2025) (width 0.25) (layer "F.Cu") (net 5) (tstamp 0ed5fc55-9902-4db3-a230-536367456e65))
+  (segment (start 116.6326 28.02) (end 118.745 30.1324) (width 0.25) (layer "F.Cu") (net 5) (tstamp 190145f8-7a7d-4bb0-9f97-aa5d6658674b))
+  (segment (start 74.89 29.845) (end 74.89 31.75) (width 0.25) (layer "F.Cu") (net 5) (tstamp 2226548a-a555-4de5-a842-a891c3eb3705))
+  (segment (start 76.795 27.94) (end 74.89 29.845) (width 0.25) (layer "F.Cu") (net 5) (tstamp 28dfd67f-7f96-47d8-973b-7161ccff6b4f))
   (segment (start 69.678838 48.529) (end 66.589 48.529) (width 0.25) (layer "F.Cu") (net 5) (tstamp 2b8ad5a9-2015-4e5b-85f4-3c4def896f0d))
   (segment (start 66.589 48.529) (end 65.4 47.34) (width 0.25) (layer "F.Cu") (net 5) (tstamp 3c4771b6-801d-41cb-bb3b-bb82435787a3))
   (segment (start 146.05 47.625) (end 144.78 47.625) (width 0.25) (layer "F.Cu") (net 5) (tstamp 50fb352b-e874-4805-a9c7-390d8ec3104b))
   (segment (start 74.295 50.8) (end 71.949838 50.8) (width 0.25) (layer "F.Cu") (net 5) (tstamp 58b8d195-98a2-47b9-a323-dbb881880ce9))
-  (segment (start 105.41 29.5675) (end 108.585 29.5675) (width 0.25) (layer "F.Cu") (net 5) (tstamp 5dbc46c7-7317-4ef6-b226-99aba36103f1))
-  (segment (start 118.745 31.6799) (end 118.745 34.5675) (width 0.25) (layer "F.Cu") (net 5) (tstamp 6e49a1aa-88db-4268-b81d-2070fce545ec))
+  (segment (start 105.41 28.02) (end 108.585 28.02) (width 0.25) (layer "F.Cu") (net 5) (tstamp 5dbc46c7-7317-4ef6-b226-99aba36103f1))
+  (segment (start 118.745 30.1324) (end 118.745 33.02) (width 0.25) (layer "F.Cu") (net 5) (tstamp 6e49a1aa-88db-4268-b81d-2070fce545ec))
   (segment (start 79.330838 59.197) (end 79.330838 55.835838) (width 0.25) (layer "F.Cu") (net 5) (tstamp 76cd0811-2d99-44a3-b874-b7716fdc09ed))
   (segment (start 71.949838 50.8) (end 69.678838 48.529) (width 0.25) (layer "F.Cu") (net 5) (tstamp 85a088e9-7089-4567-8a6b-cdafda5b066c))
+  (segment (start 74.89 31.75) (end 74.89 33.655) (width 0.25) (layer "F.Cu") (net 5) (tstamp 8eb4b7ce-cc8e-4403-9b36-40f3a8f913e9))
   (segment (start 144.78 47.625) (end 144.145 46.99) (width 0.25) (layer "F.Cu") (net 5) (tstamp a92c1fa5-8c95-4591-ba43-95592ae3f5d1))
-  (segment (start 121.5625 31.75) (end 118.745 34.5675) (width 0.25) (layer "F.Cu") (net 5) (tstamp abfa6303-7ee9-4695-8d9a-daec7db98494))
-  (segment (start 108.585 29.5675) (end 116.6326 29.5675) (width 0.25) (layer "F.Cu") (net 5) (tstamp bb72cdc4-4efd-4033-9eb8-024c8f40e6f9))
+  (segment (start 74.89 33.655) (end 74.255 34.29) (width 0.25) (layer "F.Cu") (net 5) (tstamp aa2d5bcb-cea0-4821-8c1d-a16f83c872ec))
+  (segment (start 121.5625 30.2025) (end 118.745 33.02) (width 0.25) (layer "F.Cu") (net 5) (tstamp abfa6303-7ee9-4695-8d9a-daec7db98494))
+  (segment (start 108.585 28.02) (end 116.6326 28.02) (width 0.25) (layer "F.Cu") (net 5) (tstamp bb72cdc4-4efd-4033-9eb8-024c8f40e6f9))
   (segment (start 79.330838 55.835838) (end 74.295 50.8) (width 0.25) (layer "F.Cu") (net 5) (tstamp d3e0e6be-3d54-44fd-ac91-e78c2198a981))
   (via (at 146.05 47.625) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 5) (tstamp fd79203e-1f8f-4832-991c-245d6a83ffff))
   (segment (start 44.45 33.02) (end 41.275 36.195) (width 0.25) (layer "B.Cu") (net 5) (tstamp 5a080824-db17-41d9-8e1b-6338371cfbf5))
@@ -9272,6 +9276,24 @@
   (segment (start 139.018 46.811) (end 139.197 46.99) (width 0.25) (layer "F.Cu") (net 6) (tstamp 42c021e0-5bd3-4d43-ab03-c1bb44789a09))
   (segment (start 139.018 43.688) (end 139.018 46.811) (width 0.25) (layer "F.Cu") (net 6) (tstamp 797bcc4e-0cfd-4549-a3a1-972d043c77a4))
   (segment (start 60.883838 60.767677) (end 60.839515 60.812) (width 0.25) (layer "F.Cu") (net 7) (tstamp 3c9a87f1-a7bf-46df-918c-8e60a57b3b0e))
+  (segment (start 82.967996 28.397996) (end 84.415 29.845) (width 0.25) (layer "F.Cu") (net 8) (tstamp 07edfa80-4147-4576-aa34-72bed70e97f2))
+  (segment (start 84.415 29.845) (end 84.415 30.025) (width 0.25) (layer "F.Cu") (net 8) (tstamp 19f98c95-6d2e-48e2-855b-f92626cd813f))
+  (segment (start 82.340991 26.775) (end 83 27.434009) (width 0.25) (layer "F.Cu") (net 8) (tstamp 43b5f126-44e6-4807-966e-8fa7f1a040d3))
+  (segment (start 79.335 27.345) (end 80.839009 27.345) (width 0.25) (layer "F.Cu") (net 8) (tstamp 586e9e75-fbd4-4115-8184-47541027e001))
+  (segment (start 69.175 27.94) (end 72.39 31.155) (width 0.25) (layer "F.Cu") (net 8) (tstamp 5acb4bd5-92cc-437f-82da-2608e223e03d))
+  (segment (start 72.39 31.75) (end 72.39 30.61863) (width 0.25) (layer "F.Cu") (net 8) (tstamp 69535ce6-d967-4363-9098-69848ef37e18))
+  (segment (start 67.27 35.01) (end 67.27 35.56) (width 0.25) (layer "F.Cu") (net 8) (tstamp 6a17122b-6d0f-4cb7-80f9-097eb1c59024))
+  (segment (start 72.39 30.61863) (end 76.463629 26.545001) (width 0.25) (layer "F.Cu") (net 8) (tstamp 7dde211e-c478-4afb-8771-d632e09c0f8f))
+  (segment (start 70.53 31.75) (end 67.27 35.01) (width 0.25) (layer "F.Cu") (net 8) (tstamp 8b3042b3-8057-4230-bbb2-551250aa2960))
+  (segment (start 78.535001 26.545001) (end 79.335 27.345) (width 0.25) (layer "F.Cu") (net 8) (tstamp 99e6fe96-7773-4838-9a2c-416966397044))
+  (segment (start 72.39 31.155) (end 72.39 31.75) (width 0.25) (layer "F.Cu") (net 8) (tstamp ad23fcb4-36f0-4f81-9a9b-8c5e43ff0c20))
+  (segment (start 83 28.365991) (end 82.967996 28.397996) (width 0.25) (layer "F.Cu") (net 8) (tstamp ad6eced0-9ac9-420d-b268-1ec8158d3512))
+  (segment (start 81.409009 26.775) (end 82.340991 26.775) (width 0.25) (layer "F.Cu") (net 8) (tstamp c3c10e3d-6e68-42f9-acfc-7db67034dc25))
+  (segment (start 83 27.434009) (end 83 28.365991) (width 0.25) (layer "F.Cu") (net 8) (tstamp cb6649ee-8485-4c22-99ca-60e66e2bab96))
+  (segment (start 80.839009 27.345) (end 81.409009 26.775) (width 0.25) (layer "F.Cu") (net 8) (tstamp da35fad8-3b5b-46b6-9f7e-bb994a38fd2f))
+  (segment (start 72.39 31.75) (end 70.53 31.75) (width 0.25) (layer "F.Cu") (net 8) (tstamp ed15add8-e75c-4774-818b-ba9e1b8980f1))
+  (segment (start 76.463629 26.545001) (end 78.535001 26.545001) (width 0.25) (layer "F.Cu") (net 8) (tstamp f7af37a1-0fbf-46f8-a7e0-90cbf5e69a80))
+  (segment (start 77.43 30.48) (end 77.43 33.02) (width 0.25) (layer "F.Cu") (net 9) (tstamp dcecdcb5-d0af-4434-bbc1-326be2f5ab23))
   (segment (start 29.977 59.454) (end 32.385 59.454) (width 0.25) (layer "F.Cu") (net 12) (tstamp 0031a91b-f9e7-46ff-8394-7d7c23cf57c9))
   (segment (start 32.385 59.454) (end 32.567 59.454) (width 0.25) (layer "F.Cu") (net 12) (tstamp 7e524e5e-d410-4360-a862-addb64353f9c))
   (segment (start 27.559 57.036) (end 29.977 59.454) (width 0.25) (layer "F.Cu") (net 12) (tstamp 877a8669-9d0f-46f6-bb6a-8855bb511c3a))
@@ -9321,48 +9343,48 @@
   (segment (start 58.42 43.815) (end 55.88 43.815) (width 0.25) (layer "F.Cu") (net 21) (tstamp 2e873d18-2c31-42e3-85ff-be9ece1962c0))
   (segment (start 40.468838 59.487) (end 40.468838 50.402677) (width 0.25) (layer "F.Cu") (net 21) (tstamp 539e90aa-c65d-4e45-8f22-8ab968bfb0f7))
   (segment (start 58.42 41.91) (end 58.42 43.815) (width 0.25) (layer "F.Cu") (net 21) (tstamp 683ae6ec-d277-4510-b921-8a87b80a2b1a))
-  (segment (start 118.745 42.2675) (end 114.3 46.7125) (width 0.25) (layer "F.Cu") (net 21) (tstamp 6d16c307-9b92-48c3-944b-5cb1d488fff4))
+  (segment (start 118.745 40.72) (end 114.3 45.165) (width 0.25) (layer "F.Cu") (net 21) (tstamp 6d16c307-9b92-48c3-944b-5cb1d488fff4))
   (segment (start 41.918838 48.952677) (end 50.628838 48.952677) (width 0.25) (layer "F.Cu") (net 21) (tstamp 831352a9-6c36-4832-9434-604079d810a7))
-  (segment (start 118.745 42.1875) (end 118.745 42.2675) (width 0.25) (layer "F.Cu") (net 21) (tstamp 8b47d249-a0d5-490a-95b9-e4e9a48482f5))
+  (segment (start 118.745 40.64) (end 118.745 40.72) (width 0.25) (layer "F.Cu") (net 21) (tstamp 8b47d249-a0d5-490a-95b9-e4e9a48482f5))
   (segment (start 40.468838 50.402677) (end 41.918838 48.952677) (width 0.25) (layer "F.Cu") (net 21) (tstamp bcc806f8-6912-417d-a5ac-da975500cee8))
-  (segment (start 109.6 40.6625) (end 104.92 40.6625) (width 0.25) (layer "F.Cu") (net 22) (tstamp 0c3c35a3-c169-4742-8689-37692f93d872))
-  (segment (start 111.125 42.1875) (end 109.6 40.6625) (width 0.25) (layer "F.Cu") (net 22) (tstamp ac8351f5-53a9-4229-8475-e76c2a52bc1c))
-  (segment (start 104.92 40.6625) (end 101.6 43.9825) (width 0.25) (layer "F.Cu") (net 22) (tstamp f39dc91f-bca6-4d76-923e-7dab5f992edc))
-  (segment (start 101.6 43.9825) (end 101.6 45.292) (width 0.25) (layer "F.Cu") (net 22) (tstamp f6423ca8-4c89-4113-973b-3f069298ca5d))
-  (segment (start 117.73 40.6625) (end 119.76 40.6625) (width 0.25) (layer "F.Cu") (net 23) (tstamp 145cd936-68f6-4c13-9a75-235539499100))
-  (segment (start 116.205 42.1875) (end 117.73 40.6625) (width 0.25) (layer "F.Cu") (net 23) (tstamp 155a72ab-dd8c-40ba-8336-250948a3baa1))
-  (segment (start 121.285 43.5375) (end 120.015 44.8075) (width 0.25) (layer "F.Cu") (net 23) (tstamp 18d10818-8537-42d8-80cd-ea42df3748d0))
-  (segment (start 119.7375 45.085) (end 120.015 44.8075) (width 0.25) (layer "F.Cu") (net 23) (tstamp 315bb660-5a6f-4ee5-a60e-f2961d4bf070))
-  (segment (start 121.285 42.1875) (end 121.285 43.5375) (width 0.25) (layer "F.Cu") (net 23) (tstamp 85e96f07-c462-4372-9395-3f59a9357c4e))
-  (segment (start 117.475 45.085) (end 119.7375 45.085) (width 0.25) (layer "F.Cu") (net 23) (tstamp b6dace4b-eb08-4655-b001-f3a173ef0488))
-  (segment (start 119.76 40.6625) (end 121.285 42.1875) (width 0.25) (layer "F.Cu") (net 23) (tstamp f3ba1746-72d5-4824-9f9e-1235e7c1d4d1))
-  (segment (start 128.27 41.347388) (end 131.159888 38.4575) (width 0.25) (layer "F.Cu") (net 24) (tstamp 36fff608-5b71-43df-9a99-0b8c7bb07f55))
-  (segment (start 131.159888 38.4575) (end 132.08 38.4575) (width 0.25) (layer "F.Cu") (net 24) (tstamp ae851666-a226-4c7a-9d97-2369ab6fa0ef))
-  (segment (start 128.27 43.847388) (end 125.484888 43.847388) (width 0.25) (layer "F.Cu") (net 25) (tstamp 61600aa3-5eb2-4978-9437-43516d7f320c))
-  (segment (start 123.825 44.8075) (end 123.825 42.1875) (width 0.25) (layer "F.Cu") (net 25) (tstamp 7ca29fd6-c393-47ee-9b69-e94c55a25b44))
-  (segment (start 125.484888 43.847388) (end 123.825 42.1875) (width 0.25) (layer "F.Cu") (net 25) (tstamp 9cbfef15-4ca6-4809-ba6a-ebf6d44932d1))
-  (segment (start 132.08 45.1675) (end 135.1725 45.1675) (width 0.25) (layer "F.Cu") (net 26) (tstamp 092a838a-6b6a-4cfc-8a9d-2bb3dc599019))
-  (segment (start 135.1725 45.1675) (end 135.255 45.085) (width 0.25) (layer "F.Cu") (net 26) (tstamp 95527aea-6362-452e-a192-166aca33ebcd))
-  (segment (start 132.08 40.2825) (end 132.08 45.1675) (width 0.25) (layer "F.Cu") (net 26) (tstamp dfa5182b-46ec-40da-98fe-b18bc4396802))
-  (segment (start 125.095 31.75) (end 125.095 30.0425) (width 0.25) (layer "F.Cu") (net 27) (tstamp 76966f21-be9f-4625-8b45-28557c3effa7))
-  (segment (start 124.46 38.1) (end 127 35.56) (width 0.25) (layer "F.Cu") (net 27) (tstamp 7d0a2b99-073d-4cae-9fc7-0ef218a9e653))
-  (segment (start 117.1975 38.1) (end 124.46 38.1) (width 0.25) (layer "F.Cu") (net 27) (tstamp b545a428-1755-407c-ba90-9da5c0bb32e7))
-  (segment (start 113.665 34.5675) (end 117.1975 38.1) (width 0.25) (layer "F.Cu") (net 27) (tstamp b55a30a9-1d78-4385-9f2f-4963dbcdf527))
-  (segment (start 127 31.9475) (end 125.095 30.0425) (width 0.25) (layer "F.Cu") (net 27) (tstamp d5a9bb20-2cbb-4876-99f4-9bf0f7791719))
-  (segment (start 127 35.56) (end 127 31.9475) (width 0.25) (layer "F.Cu") (net 27) (tstamp e3e348bd-e4f8-425f-9e16-28f066fa9931))
+  (segment (start 109.6 39.115) (end 104.92 39.115) (width 0.25) (layer "F.Cu") (net 22) (tstamp 0c3c35a3-c169-4742-8689-37692f93d872))
+  (segment (start 111.125 40.64) (end 109.6 39.115) (width 0.25) (layer "F.Cu") (net 22) (tstamp ac8351f5-53a9-4229-8475-e76c2a52bc1c))
+  (segment (start 104.92 39.115) (end 101.6 42.435) (width 0.25) (layer "F.Cu") (net 22) (tstamp f39dc91f-bca6-4d76-923e-7dab5f992edc))
+  (segment (start 101.6 42.435) (end 101.6 43.7445) (width 0.25) (layer "F.Cu") (net 22) (tstamp f6423ca8-4c89-4113-973b-3f069298ca5d))
+  (segment (start 117.73 39.115) (end 119.76 39.115) (width 0.25) (layer "F.Cu") (net 23) (tstamp 145cd936-68f6-4c13-9a75-235539499100))
+  (segment (start 116.205 40.64) (end 117.73 39.115) (width 0.25) (layer "F.Cu") (net 23) (tstamp 155a72ab-dd8c-40ba-8336-250948a3baa1))
+  (segment (start 121.285 41.99) (end 120.015 43.26) (width 0.25) (layer "F.Cu") (net 23) (tstamp 18d10818-8537-42d8-80cd-ea42df3748d0))
+  (segment (start 119.7375 43.5375) (end 120.015 43.26) (width 0.25) (layer "F.Cu") (net 23) (tstamp 315bb660-5a6f-4ee5-a60e-f2961d4bf070))
+  (segment (start 121.285 40.64) (end 121.285 41.99) (width 0.25) (layer "F.Cu") (net 23) (tstamp 85e96f07-c462-4372-9395-3f59a9357c4e))
+  (segment (start 117.475 43.5375) (end 119.7375 43.5375) (width 0.25) (layer "F.Cu") (net 23) (tstamp b6dace4b-eb08-4655-b001-f3a173ef0488))
+  (segment (start 119.76 39.115) (end 121.285 40.64) (width 0.25) (layer "F.Cu") (net 23) (tstamp f3ba1746-72d5-4824-9f9e-1235e7c1d4d1))
+  (segment (start 128.27 39.799888) (end 131.159888 36.91) (width 0.25) (layer "F.Cu") (net 24) (tstamp 36fff608-5b71-43df-9a99-0b8c7bb07f55))
+  (segment (start 131.159888 36.91) (end 132.08 36.91) (width 0.25) (layer "F.Cu") (net 24) (tstamp ae851666-a226-4c7a-9d97-2369ab6fa0ef))
+  (segment (start 128.27 42.299888) (end 125.484888 42.299888) (width 0.25) (layer "F.Cu") (net 25) (tstamp 61600aa3-5eb2-4978-9437-43516d7f320c))
+  (segment (start 123.825 43.26) (end 123.825 40.64) (width 0.25) (layer "F.Cu") (net 25) (tstamp 7ca29fd6-c393-47ee-9b69-e94c55a25b44))
+  (segment (start 125.484888 42.299888) (end 123.825 40.64) (width 0.25) (layer "F.Cu") (net 25) (tstamp 9cbfef15-4ca6-4809-ba6a-ebf6d44932d1))
+  (segment (start 132.08 43.62) (end 135.1725 43.62) (width 0.25) (layer "F.Cu") (net 26) (tstamp 092a838a-6b6a-4cfc-8a9d-2bb3dc599019))
+  (segment (start 135.1725 43.62) (end 135.255 43.5375) (width 0.25) (layer "F.Cu") (net 26) (tstamp 95527aea-6362-452e-a192-166aca33ebcd))
+  (segment (start 132.08 38.735) (end 132.08 43.62) (width 0.25) (layer "F.Cu") (net 26) (tstamp dfa5182b-46ec-40da-98fe-b18bc4396802))
+  (segment (start 125.095 30.2025) (end 125.095 28.495) (width 0.25) (layer "F.Cu") (net 27) (tstamp 76966f21-be9f-4625-8b45-28557c3effa7))
+  (segment (start 124.46 36.5525) (end 127 34.0125) (width 0.25) (layer "F.Cu") (net 27) (tstamp 7d0a2b99-073d-4cae-9fc7-0ef218a9e653))
+  (segment (start 117.1975 36.5525) (end 124.46 36.5525) (width 0.25) (layer "F.Cu") (net 27) (tstamp b545a428-1755-407c-ba90-9da5c0bb32e7))
+  (segment (start 113.665 33.02) (end 117.1975 36.5525) (width 0.25) (layer "F.Cu") (net 27) (tstamp b55a30a9-1d78-4385-9f2f-4963dbcdf527))
+  (segment (start 127 30.4) (end 125.095 28.495) (width 0.25) (layer "F.Cu") (net 27) (tstamp d5a9bb20-2cbb-4876-99f4-9bf0f7791719))
+  (segment (start 127 34.0125) (end 127 30.4) (width 0.25) (layer "F.Cu") (net 27) (tstamp e3e348bd-e4f8-425f-9e16-28f066fa9931))
   (segment (start 29.483 42.92) (end 32.283 45.72) (width 0.25) (layer "F.Cu") (net 28) (tstamp 107f5081-324d-400d-8c4d-870e5ce293b8))
   (segment (start 29.483 40.64) (end 29.483 42.92) (width 0.25) (layer "F.Cu") (net 28) (tstamp 39ecb6b7-e9b5-441d-8597-cd1cc50aa1db))
   (segment (start 65.871515 62.23) (end 55.706161 62.23) (width 0.25) (layer "F.Cu") (net 29) (tstamp 5b4cee43-f1ea-4a7a-8d33-b31eb6e6b50f))
   (segment (start 74.758838 53.342677) (end 65.871515 62.23) (width 0.25) (layer "F.Cu") (net 29) (tstamp 6e71de4b-3269-4af6-9ab9-6e7d2dc0b82a))
   (segment (start 55.706161 62.23) (end 50.628838 57.152677) (width 0.25) (layer "F.Cu") (net 29) (tstamp b23fb453-30a0-4e61-af66-968aacafff36))
-  (segment (start 105.41 37.465) (end 103.585 37.465) (width 0.25) (layer "F.Cu") (net 30) (tstamp 1b2b006c-1ba5-4286-871a-5a9ff242d655))
-  (segment (start 116.205 31.46) (end 116.205 34.5675) (width 0.25) (layer "F.Cu") (net 30) (tstamp 3d9e1d8d-8977-4ff6-ad95-08c29e2cbd89))
-  (segment (start 103.585 37.465) (end 103.505 37.545) (width 0.25) (layer "F.Cu") (net 30) (tstamp e9e6440c-5b11-4e98-9af0-314ebd7c09e0))
-  (via (at 105.41 37.465) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 30) (tstamp 322ebb73-374b-4d84-8695-f0374725bd29))
-  (segment (start 113.3075 37.465) (end 105.41 37.465) (width 0.25) (layer "B.Cu") (net 30) (tstamp 0d6144c7-30b9-4c70-9e04-af19f6eb35fc))
-  (segment (start 116.205 34.5675) (end 113.3075 37.465) (width 0.25) (layer "B.Cu") (net 30) (tstamp 224e18ff-3778-4525-a52c-73bba01bcff7))
-  (segment (start 125.095 28.2175) (end 117.4625 28.2175) (width 0.25) (layer "F.Cu") (net 31) (tstamp 78c4a85c-e842-4e50-be98-7854cc99e2fe))
-  (segment (start 117.4625 28.2175) (end 116.205 26.96) (width 0.25) (layer "F.Cu") (net 31) (tstamp e2bfe235-a3ee-430b-a551-0e984b4162cf))
+  (segment (start 105.41 35.9175) (end 103.585 35.9175) (width 0.25) (layer "F.Cu") (net 30) (tstamp 1b2b006c-1ba5-4286-871a-5a9ff242d655))
+  (segment (start 116.205 29.9125) (end 116.205 33.02) (width 0.25) (layer "F.Cu") (net 30) (tstamp 3d9e1d8d-8977-4ff6-ad95-08c29e2cbd89))
+  (segment (start 103.585 35.9175) (end 103.505 35.9975) (width 0.25) (layer "F.Cu") (net 30) (tstamp e9e6440c-5b11-4e98-9af0-314ebd7c09e0))
+  (via (at 105.41 35.9175) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 30) (tstamp 322ebb73-374b-4d84-8695-f0374725bd29))
+  (segment (start 113.3075 35.9175) (end 105.41 35.9175) (width 0.25) (layer "B.Cu") (net 30) (tstamp 0d6144c7-30b9-4c70-9e04-af19f6eb35fc))
+  (segment (start 116.205 33.02) (end 113.3075 35.9175) (width 0.25) (layer "B.Cu") (net 30) (tstamp 224e18ff-3778-4525-a52c-73bba01bcff7))
+  (segment (start 125.095 26.67) (end 117.4625 26.67) (width 0.25) (layer "F.Cu") (net 31) (tstamp 78c4a85c-e842-4e50-be98-7854cc99e2fe))
+  (segment (start 117.4625 26.67) (end 116.205 25.4125) (width 0.25) (layer "F.Cu") (net 31) (tstamp e2bfe235-a3ee-430b-a551-0e984b4162cf))
   (segment (start 29.483 35.56) (end 29.483 37.84) (width 0.25) (layer "F.Cu") (net 35) (tstamp 7fe38585-8329-48cc-80af-a40ee6384f9e))
   (segment (start 29.483 37.84) (end 32.283 40.64) (width 0.25) (layer "F.Cu") (net 35) (tstamp 8b7b2c59-a754-4a23-900f-387709904c53))
   (segment (start 144.145 39.37) (end 143.33125 39.37) (width 0.25) (layer "F.Cu") (net 37) (tstamp 47322646-5a04-488a-b484-37cc4f04be05))
@@ -9391,38 +9413,36 @@
   (segment (start 59.055 28.575) (end 58.055 28.575) (width 0.25) (layer "F.Cu") (net 46) (tstamp 6a90fed3-8efd-4ffe-b196-73f68f16e116))
   (segment (start 57.98 28.65) (end 57.98 33.85) (width 0.25) (layer "F.Cu") (net 46) (tstamp 7d424fc9-1d8d-42ad-8b2d-32da999ae472))
   (segment (start 58.055 28.575) (end 57.98 28.65) (width 0.25) (layer "F.Cu") (net 46) (tstamp ce78a9cf-53e6-40fa-9966-fd670ee14ec3))
-  (segment (start 86.995 43.815) (end 86.995 46.355) (width 0.25) (layer "F.Cu") (net 48) (tstamp 0733f0f0-5cac-4d95-957f-499d8e86e604))
-  (segment (start 84.154695 45.08) (end 85.73 45.08) (width 0.25) (layer "F.Cu") (net 48) (tstamp 2105345d-91f3-4ecc-86a1-957292f02460))
-  (segment (start 83.969695 43.815) (end 83.73 44.054695) (width 0.25) (layer "F.Cu") (net 48) (tstamp 4e21a992-8131-43ce-a014-e4d76c904874))
-  (segment (start 68.58 43.815) (end 83.969695 43.815) (width 0.25) (layer "F.Cu") (net 48) (tstamp 8ce26ec8-ffd4-45f8-a25d-0e4583d4a7d2))
-  (segment (start 83.73 44.054695) (end 83.73 44.655305) (width 0.25) (layer "F.Cu") (net 48) (tstamp a378edad-29cd-4781-b2d1-a836f17c0682))
-  (segment (start 66.04 41.275) (end 68.58 43.815) (width 0.25) (layer "F.Cu") (net 48) (tstamp a80ca935-85cd-476b-aba4-a16c4fc1a102))
-  (segment (start 86.995 46.355) (end 92.71 52.07) (width 0.25) (layer "F.Cu") (net 48) (tstamp c029bd0b-bacd-4f30-97d8-099a73ef62df))
-  (segment (start 85.73 45.08) (end 86.995 43.815) (width 0.25) (layer "F.Cu") (net 48) (tstamp e0880152-fa24-4327-84b7-a765289c3f19))
-  (segment (start 83.73 44.655305) (end 84.154695 45.08) (width 0.25) (layer "F.Cu") (net 48) (tstamp f102c37d-40e5-40bc-a30a-942e5281ac6e))
-  (segment (start 111.125 45.165) (end 107.95 45.165) (width 0.25) (layer "F.Cu") (net 49) (tstamp 693be081-9fd3-4ac6-bc5d-7a150505f625))
-  (segment (start 113.665 42.1875) (end 113.665 44.2525) (width 0.25) (layer "F.Cu") (net 49) (tstamp 8d2c034f-945d-4502-a472-aac550bc16ac))
-  (segment (start 113.665 44.2525) (end 114.3 44.8875) (width 0.25) (layer "F.Cu") (net 49) (tstamp a006a9aa-9cb6-418c-aaca-d321ff400506))
-  (segment (start 114.3 44.8875) (end 111.4025 44.8875) (width 0.25) (layer "F.Cu") (net 49) (tstamp ba002a91-8284-4f50-ba3d-b2fe87818318))
-  (segment (start 111.4025 44.8875) (end 111.125 45.165) (width 0.25) (layer "F.Cu") (net 49) (tstamp fd67a4fc-1f43-43dc-83e4-8fd3e6ab9136))
-  (segment (start 105.965 44.8075) (end 108.585 42.1875) (width 0.25) (layer "F.Cu") (net 51) (tstamp c56a3a6b-3e11-4e9e-8304-b61756d1b41f))
-  (segment (start 105.41 44.8075) (end 105.965 44.8075) (width 0.25) (layer "F.Cu") (net 51) (tstamp c9098381-519c-4b8f-8a71-d9ea0612c8d2))
-  (segment (start 106.045 42.1875) (end 102.87 45.3625) (width 0.25) (layer "F.Cu") (net 53) (tstamp 1c134c66-7dcf-4a2c-bc40-a1cec8a06750))
-  (segment (start 104.4175 49.8875) (end 105.41 50.88) (width 0.25) (layer "F.Cu") (net 53) (tstamp 619a8ae9-4fd2-4eff-9caa-c13f2655835a))
-  (segment (start 103.505 39.37) (end 105.41 39.37) (width 0.25) (layer "F.Cu") (net 53) (tstamp c1067d9c-364e-4b63-a3e9-9da17b6f2654))
-  (segment (start 102.87 45.3625) (end 102.87 49.8875) (width 0.25) (layer "F.Cu") (net 53) (tstamp c3971ba9-a226-4a12-9980-70ee17bb74f2))
-  (segment (start 102.87 49.8875) (end 104.4175 49.8875) (width 0.25) (layer "F.Cu") (net 53) (tstamp e7dea62e-5d0b-4116-9d45-9eec9f5209b5))
-  (via (at 105.41 39.37) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 53) (tstamp 2fbca495-9a10-436c-961c-5f6edf3de587))
-  (segment (start 105.41 39.37) (end 106.045 40.005) (width 0.25) (layer "B.Cu") (net 53) (tstamp 64ff2c2c-b61d-42a5-b00d-0f6c3e237002))
-  (segment (start 106.045 40.005) (end 106.045 42.1875) (width 0.25) (layer "B.Cu") (net 53) (tstamp 661a9671-0880-4a0e-b4ff-cb60aad7a207))
-  (segment (start 108.585 31.3925) (end 108.585 34.5675) (width 0.25) (layer "F.Cu") (net 54) (tstamp ee33ba08-caeb-4041-a79a-85b51667679c))
-  (segment (start 105.41 33.9325) (end 106.045 34.5675) (width 0.25) (layer "F.Cu") (net 55) (tstamp 1f45c473-be42-4604-a559-4f7541013b4c))
-  (segment (start 105.41 31.3925) (end 105.41 33.9325) (width 0.25) (layer "F.Cu") (net 55) (tstamp a9a46dbd-bd04-4044-8914-d29e7daf9736))
+  (segment (start 85.725 44.45) (end 86.995 45.72) (width 0.25) (layer "F.Cu") (net 48) (tstamp 193d25cb-68a3-4ec4-b3f9-9bfe265b72ba))
+  (segment (start 69.215 44.45) (end 85.725 44.45) (width 0.25) (layer "F.Cu") (net 48) (tstamp 65659686-62ce-4561-86f8-a0439a82073f))
+  (segment (start 86.995 46.355) (end 92.71 52.07) (width 0.25) (layer "F.Cu") (net 48) (tstamp 6c533717-4d52-47ef-a99b-21c978181674))
+  (segment (start 66.04 41.275) (end 69.215 44.45) (width 0.25) (layer "F.Cu") (net 48) (tstamp 6fb84de6-b821-4e4e-a5e7-a80efb750848))
+  (segment (start 86.995 45.72) (end 86.995 46.355) (width 0.25) (layer "F.Cu") (net 48) (tstamp 7971b330-3014-4479-88af-8abf2fdb1fe5))
+  (segment (start 111.125 43.6175) (end 107.95 43.6175) (width 0.25) (layer "F.Cu") (net 49) (tstamp 693be081-9fd3-4ac6-bc5d-7a150505f625))
+  (segment (start 113.665 40.64) (end 113.665 42.705) (width 0.25) (layer "F.Cu") (net 49) (tstamp 8d2c034f-945d-4502-a472-aac550bc16ac))
+  (segment (start 113.665 42.705) (end 114.3 43.34) (width 0.25) (layer "F.Cu") (net 49) (tstamp a006a9aa-9cb6-418c-aaca-d321ff400506))
+  (segment (start 114.3 43.34) (end 111.4025 43.34) (width 0.25) (layer "F.Cu") (net 49) (tstamp ba002a91-8284-4f50-ba3d-b2fe87818318))
+  (segment (start 111.4025 43.34) (end 111.125 43.6175) (width 0.25) (layer "F.Cu") (net 49) (tstamp fd67a4fc-1f43-43dc-83e4-8fd3e6ab9136))
+  (segment (start 105.965 43.26) (end 108.585 40.64) (width 0.25) (layer "F.Cu") (net 51) (tstamp c56a3a6b-3e11-4e9e-8304-b61756d1b41f))
+  (segment (start 105.41 43.26) (end 105.965 43.26) (width 0.25) (layer "F.Cu") (net 51) (tstamp c9098381-519c-4b8f-8a71-d9ea0612c8d2))
+  (segment (start 106.045 40.64) (end 102.87 43.815) (width 0.25) (layer "F.Cu") (net 53) (tstamp 1c134c66-7dcf-4a2c-bc40-a1cec8a06750))
+  (segment (start 104.4175 48.34) (end 105.41 49.3325) (width 0.25) (layer "F.Cu") (net 53) (tstamp 619a8ae9-4fd2-4eff-9caa-c13f2655835a))
+  (segment (start 103.505 37.8225) (end 105.41 37.8225) (width 0.25) (layer "F.Cu") (net 53) (tstamp c1067d9c-364e-4b63-a3e9-9da17b6f2654))
+  (segment (start 102.87 43.815) (end 102.87 48.34) (width 0.25) (layer "F.Cu") (net 53) (tstamp c3971ba9-a226-4a12-9980-70ee17bb74f2))
+  (segment (start 102.87 48.34) (end 104.4175 48.34) (width 0.25) (layer "F.Cu") (net 53) (tstamp e7dea62e-5d0b-4116-9d45-9eec9f5209b5))
+  (via (at 105.41 37.8225) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 53) (tstamp 2fbca495-9a10-436c-961c-5f6edf3de587))
+  (segment (start 105.41 37.8225) (end 106.045 38.4575) (width 0.25) (layer "B.Cu") (net 53) (tstamp 64ff2c2c-b61d-42a5-b00d-0f6c3e237002))
+  (segment (start 106.045 38.4575) (end 106.045 40.64) (width 0.25) (layer "B.Cu") (net 53) (tstamp 661a9671-0880-4a0e-b4ff-cb60aad7a207))
+  (segment (start 108.585 29.845) (end 108.585 33.02) (width 0.25) (layer "F.Cu") (net 54) (tstamp ee33ba08-caeb-4041-a79a-85b51667679c))
+  (segment (start 105.41 32.385) (end 106.045 33.02) (width 0.25) (layer "F.Cu") (net 55) (tstamp 1f45c473-be42-4604-a559-4f7541013b4c))
+  (segment (start 105.41 29.845) (end 105.41 32.385) (width 0.25) (layer "F.Cu") (net 55) (tstamp a9a46dbd-bd04-4044-8914-d29e7daf9736))
   (segment (start 60.27 52.07) (end 60.208838 52.008838) (width 0.25) (layer "B.Cu") (net 58) (tstamp 6bf57906-ab75-4b03-b9d1-b4ac626d0c8b))
   (segment (start 66.156161 52.07) (end 60.27 52.07) (width 0.25) (layer "B.Cu") (net 58) (tstamp cd8531fa-7571-429b-a8da-c45d045ce271))
   (segment (start 69.678838 55.592677) (end 66.156161 52.07) (width 0.25) (layer "B.Cu") (net 58) (tstamp d7ca72dd-b3ae-45b5-aee6-64e254969e82))
   (segment (start 57.4275 48.26) (end 61.94 48.26) (width 0.25) (layer "F.Cu") (net 59) (tstamp 21d8e10d-8690-4dd7-a2c4-ee342773f646))
   (segment (start 61.94 48.26) (end 62.86 47.34) (width 0.25) (layer "F.Cu") (net 59) (tstamp 5deba391-504f-41f8-8108-bb9480594766))
+  (segment (start 79.335 29.845) (end 79.335 32.385) (width 0.25) (layer "F.Cu") (net 60) (tstamp 9245ec7b-3a97-4d81-92b2-91c12abf79e8))
+  (segment (start 79.335 32.385) (end 82.51 35.56) (width 0.25) (layer "F.Cu") (net 60) (tstamp e07d3ec4-aba8-42d4-b748-d05f4d63191f))
 
   (zone (net 7) (net_name "Earth") (layers "F&B.Cu") (tstamp 6b897318-ae7c-41bc-a0e8-7ecab864dcee) (hatch edge 0.5)
     (priority 1)
@@ -9474,24 +9494,48 @@
   )
   (group "Fixed Pitch Oscillator" (id 5f21bc07-3794-4063-bd4a-a238b0161119)
     (members
+      07edfa80-4147-4576-aa34-72bed70e97f2
       0bc844d5-5ec8-4442-bf4b-94b0326f39fd
       130a70c9-2abf-4ec0-ba25-55053542c9ef
+      19f98c95-6d2e-48e2-855b-f92626cd813f
+      2226548a-a555-4de5-a842-a891c3eb3705
+      28dfd67f-7f96-47d8-973b-7161ccff6b4f
       2edfccee-ef70-45e4-9bde-cbf26717ca22
       3aac3eff-ef27-448c-8d0d-c5cec8fe44c1
+      43b5f126-44e6-4807-966e-8fa7f1a040d3
+      586e9e75-fbd4-4115-8184-47541027e001
       5a18673c-9157-4d7b-b60e-e79f4e580968
+      5acb4bd5-92cc-437f-82da-2608e223e03d
+      69535ce6-d967-4363-9098-69848ef37e18
+      6a17122b-6d0f-4cb7-80f9-097eb1c59024
       721254b3-ab38-4912-a548-83486fad1bdc
       785c4d0d-0dc5-4537-b044-8aace78c6662
       7b44badb-9ef2-4f39-b2d1-dd5cc516c0ae
+      7dde211e-c478-4afb-8771-d632e09c0f8f
       850cf084-3e79-4331-8c3c-59e8ad9a7cee
       88e49e98-0cbb-4c32-becd-63bb06baa23c
+      8b3042b3-8057-4230-bbb2-551250aa2960
       8e08f8c1-bc8f-475f-ac06-c519b1a4260d
+      8eb4b7ce-cc8e-4403-9b36-40f3a8f913e9
+      9245ec7b-3a97-4d81-92b2-91c12abf79e8
       977d2621-d0e3-484e-840d-ea3ffe9e257b
+      99e6fe96-7773-4838-9a2c-416966397044
       a1d49f19-e422-4ab7-a323-0dcd9a9cc976
+      aa2d5bcb-cea0-4821-8c1d-a16f83c872ec
+      ad23fcb4-36f0-4f81-9a9b-8c5e43ff0c20
+      ad6eced0-9ac9-420d-b268-1ec8158d3512
       ae9ddd74-ade4-44a6-aaa4-e5e0157db6e7
       b078e33b-0b97-4a41-8f7b-4c79cfc7ee07
       c1e406c9-4b4f-457e-9e12-3c5df8625db1
+      c3c10e3d-6e68-42f9-acfc-7db67034dc25
       c6dbd0f3-0d48-4837-8fb4-4bd71eb036ef
+      cb6649ee-8485-4c22-99ca-60e66e2bab96
+      da35fad8-3b5b-46b6-9f7e-bb994a38fd2f
+      dcecdcb5-d0af-4434-bbc1-326be2f5ab23
       dfeaf157-3c7f-4bd7-a60a-7da433324562
+      e07d3ec4-aba8-42d4-b748-d05f4d63191f
+      ed15add8-e75c-4774-818b-ba9e1b8980f1
+      f7af37a1-0fbf-46f8-a7e0-90cbf5e69a80
       f8ea1d93-bb0a-4fb1-8192-a5ce29d04fe7
       f95f94ad-a14a-4647-83b5-98f373dbf57d
     )
